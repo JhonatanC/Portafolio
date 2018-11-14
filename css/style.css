@@ -41,6 +41,8 @@ header .description-main {
 	text-decoration: none;
 }
 
+#contador{ width:80%; margin: 0 auto; display: block; }
+
 .container .menu_bar{
 	display: none;
 }
